@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Logo-unpad" size="10.000000 8.650726" />
+    <ImageTarget name="Foto_Merah" size="10.000000 15.058824" />
+    <ImageTarget name="target" size="1.000000 1.000000" />
+    <ImageTarget name="1582798940405" size="10.000000 5.629630" />
+    <ImageTarget name="04807115-e5f5-4d8e-b7c6-e07b71b7814c" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
